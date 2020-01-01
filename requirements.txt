@@ -4,8 +4,6 @@
 #
 #    pip-compile --output-file=requirements.txt requirements.in
 #
---extra-index-url https://mohd.khan@fundingcircle.com:AKCp5e2WiNz526bnDsnDBkr3DCX6vm5RYVmGVM1PxudAaFgaSZmAdPam17NNfMb2PPxQUija2@fundingcircle.jfrog.io/fundingcircle/api/pypi/pypi/simple
---trusted-host fundingcircle.jfrog.io
 
 attrs==19.3.0             # via pytest
 entrypoints==0.3          # via flake8
